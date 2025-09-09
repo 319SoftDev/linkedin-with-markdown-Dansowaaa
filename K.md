@@ -1,7 +1,7 @@
 # **Name: K Aponte Garcia** #
 ![K](unnamed.jpg)
 
-Birthday: April </br>
+Birthday: April 6 </br>
 Age: 17
 
 
