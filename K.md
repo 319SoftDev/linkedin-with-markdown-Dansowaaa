@@ -1,4 +1,4 @@
-### **Name: K Aponte Garcia** ###
+# **Name: K Aponte Garcia** #
 ![K](unnamed.jpg)
 
 Birthday: April </br>
